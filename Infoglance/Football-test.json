@@ -1,0 +1,92 @@
+{
+    "InfoGlance": {
+        "lambda": {
+            "version": "1.0",
+            "session": {
+                "new": false,
+                "sessionId": "amzn1.echo-api.session.830ca77c-ba8a-408e-b7ed-cac02dea77ef",
+                "application": {
+                    "applicationId": "amzn1.ask.skill.f4992d13-a722-49c9-9ee3-884c5ab930d5"
+                },
+                "user": {
+                    "userId": "amzn1.ask.account.AFMWUPQALS6HN5PB42RQHIUMC5VEUYADORGXH3KEWRXQBHJWP62WYBJ7MCXBSNDJGQ4ALAAGZYNCE6XUQ7HOJX23LATT2QENZYU4U7IONWHI3O5TZXOOT3LGLPQMLAC2RMUFRM6YJHC6RWOV4KTZKLYUPMCHXGBSLHJGQPNU2Z3DSRGGD23ZOIPBJUNZEQ5YGJVZQDW4YW5RR7A"
+                }
+            },
+            "context": {
+                "System": {
+                    "application": {
+                        "applicationId": "amzn1.ask.skill.f4992d13-a722-49c9-9ee3-884c5ab930d5"
+                    },
+                    "user": {
+                        "userId": "amzn1.ask.account.AFMWUPQALS6HN5PB42RQHIUMC5VEUYADORGXH3KEWRXQBHJWP62WYBJ7MCXBSNDJGQ4ALAAGZYNCE6XUQ7HOJX23LATT2QENZYU4U7IONWHI3O5TZXOOT3LGLPQMLAC2RMUFRM6YJHC6RWOV4KTZKLYUPMCHXGBSLHJGQPNU2Z3DSRGGD23ZOIPBJUNZEQ5YGJVZQDW4YW5RR7A"
+                    },
+                    "device": {
+                        "deviceId": "amzn1.ask.device.AGKMAXVTVRTFWBLLCX7Z7MQ4MU4HHY53T3LZSLYMDNUAPEI72DVFWBNDYED2RZYDUFMI4UJOGJUH4KALJGE5KQIRSB574YF3BZ462AJZL27XGQQTTPLPA2GFX7CIFQ2QT44YSLLGVS6V4YSP7BHZW7K34ZZA",
+                        "supportedInterfaces": {}
+                    },
+                    "apiEndpoint": "https://api.amazonalexa.com",
+                    "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmY0OTkyZDEzLWE3MjItNDljOS05ZWUzLTg4NGM1YWI5MzBkNSIsImV4cCI6MTUzNzY3NzMwNiwiaWF0IjoxNTM3NjczNzA2LCJuYmYiOjE1Mzc2NzM3MDYsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUdLTUFYVlRWUlRGV0JMTENYN1o3TVE0TVU0SEhZNTNUM0xaU0xZTUROVUFQRUk3MkRWRldCTkRZRUQyUlpZRFVGTUk0VUpPR0pVSDRLQUxKR0U1S1FJUlNCNTc0WUYzQlo0NjJBSlpMMjdYR1FRVFRQTFBBMkdGWDdDSUZRMlFUNDRZU0xMR1ZTNlY0WVNQN0JIWlc3SzM0WlpBIiwidXNlcklkIjoiYW16bjEuYXNrLmFjY291bnQuQUZNV1VQUUFMUzZITjVQQjQyUlFISVVNQzVWRVVZQURPUkdYSDNLRVdSWFFCSEpXUDYyV1lCSjdNQ1hCU05ESkdRNEFMQUFHWllOQ0U2WFVRN0hPSlgyM0xBVFQyUUVOWllVNFU3SU9OV0hJM081VFpYT09UM0xHTFBRTUxBQzJSTVVGUk02WUpIQzZSV09WNEtUWktMWVVQTUNIWEdCU0xISkdRUE5VMlozRFNSR0dEMjNaT0lQQkpVTlpFUTVZR0pWWlFEVzRZVzVSUjdBIn19.NjomjDrx2PPqysFoRGKkTmNI04kjFc1JueaQVdbUjbFlngcNmKUrO9sAjFg0fjub2qEixJFCw4_yIBeRVmTgEN_QEsSPpiy3bhSHo6t-ZJhx1CH1VZyMcwL1iJt7Oh-X4dgfSKxE0YynBeAYYb4ovKWg2qioMCEXg6gQAJLVt1bSKz1qazlnfzhAOR5TI64qqW1ZsJwm9N_YMWtqLrs1xA6jDYM0mOrPoJQIIE1oec9hjvTxsGs9BsGZHiIu0IIz-q4qR_Ztw5Or3RTphjC9wxtJ_3AV2BfMK7ODf9fcewJFCSD4Nm1PS0nOZHD8Aa4SNupQk154dj-5VXDTrdh7ng"
+                }
+            },
+            "request": {
+                "type": "IntentRequest",
+                "requestId": "amzn1.echo-api.request.5ae5ee69-90a2-4f75-8ad2-9ba9aa5fc5d3",
+                "timestamp": "2018-09-23T03:35:06Z",
+                "locale": "en-US",
+                "intent": {
+                    "name": "GetSummary",
+                    "confirmationStatus": "NONE",
+                    "slots": {
+                        "category": {
+                            "name": "category",
+                            "value": "sports",
+                            "resolutions": {
+                                "resolutionsPerAuthority": [
+                                    {
+                                        "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.f4992d13-a722-49c9-9ee3-884c5ab930d5.Category",
+                                        "status": {
+                                            "code": "ER_SUCCESS_MATCH"
+                                        },
+                                        "values": [
+                                            {
+                                                "value": {
+                                                    "name": "Sports",
+                                                    "id": "918e180e06b96c76b7193c9fcb1cb312"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "confirmationStatus": "NONE"
+                        },
+                        "query": {
+                            "name": "query",
+                            "value": "football",
+                            "resolutions": {
+                                "resolutionsPerAuthority": [
+                                    {
+                                        "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.f4992d13-a722-49c9-9ee3-884c5ab930d5.Query",
+                                        "status": {
+                                            "code": "ER_SUCCESS_MATCH"
+                                        },
+                                        "values": [
+                                            {
+                                                "value": {
+                                                    "name": "Football",
+                                                    "id": "449a5f6d01d5f416810d04b4df596b6a"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "confirmationStatus": "NONE"
+                        }
+                    }
+                },
+                "dialogState": "IN_PROGRESS"
+            }
+        }
+    }
+}
